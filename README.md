@@ -8,6 +8,8 @@ Below are a list of these projects, the latest on top, with links to the live si
 
 ## 📚 Project List
 
+### Projects finished in 2024
+
 <br>
 
 <!-- Suite Landing Page -->
@@ -196,6 +198,118 @@ Below are a list of these projects, the latest on top, with links to the live si
       <picture>
         <a href="https://tangerine-tapioca-d62fea.netlify.app/" target="_blank">
           <img alt="Workit Landing Page preview" src="./screenshots/workitlandingpage.jpg" align="center">
+        </a>
+      </picture>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- News Homepage -->
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h2 align="center">News Homepage</h2>
+      <h3 align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=html,css" alt="My Skills">
+        </a>
+      </h3>
+      <p align="center">
+        <a href="https://fe-24-007-news-homepage.vercel.app/" target="_blank">Live</a>
+         | 
+        <a href="https://github.com/katrien-s/fe-24-007-news-homepage" target="_blank">Repo</a>
+      </p>
+    </td>
+    <td width="50%">
+      <picture>
+        <a href="https://fe-24-007-news-homepage.vercel.app/" target="_blank">
+          <img alt="News Homepage preview" src="./screenshots/newshomepage.jpg" align="center">
+        </a>
+      </picture>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- Age Calculator -->
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h2 align="center">Age Calculator</h2>
+      <h3 align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=html,css,js" alt="My Skills">
+        </a>
+      </h3>
+      <p align="center">
+        <a href="https://cheerful-squirrel-f1af5a.netlify.app/" target="_blank">Live</a>
+         | 
+        <a href="https://github.com/katrien-s/fe-24-003-age-calculator-app" target="_blank">Repo</a>
+      </p>
+    </td>
+    <td width="50%">
+      <picture>
+        <a href="https://cheerful-squirrel-f1af5a.netlify.app/" target="_blank">
+          <img alt="Age Calculator preview" src="./screenshots/agecalculator.jpg" align="center">
+        </a>
+      </picture>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- Pricing Component with Toggle -->
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h2 align="center">Pricing Component with Toggle</h2>
+      <h3 align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=html,css,js" alt="My Skills">
+        </a>
+      </h3>
+      <p align="center">
+        <a href="https://magnificent-basbousa-ebe39d.netlify.app/" target="_blank">Live</a>
+         | 
+        <a href="https://github.com/katrien-s/fe-24-002-pricing-component-with-toggle" target="_blank">Repo</a>
+      </p>
+    </td>
+    <td width="50%">
+      <picture>
+        <a href="https://magnificent-basbousa-ebe39d.netlify.app/" target="_blank">
+          <img alt="Pricing Component with Toggle preview" src="./screenshots/pricingtogglecomponent.jpg" align="center">
+        </a>
+      </picture>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- Results Summary Component -->
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h2 align="center">Results Summary Component</h2>
+      <h3 align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=html,css,js" alt="My Skills">
+        </a>
+      </h3>
+      <p align="center">
+        <a href="https://grand-macaron-f3b01e.netlify.app/" target="_blank">Live</a>
+         | 
+        <a href="https://github.com/katrien-s/fe-24-001-results-summary-component" target="_blank">Repo</a>
+      </p>
+    </td>
+    <td width="50%">
+      <picture>
+        <a href="https://grand-macaron-f3b01e.netlify.app/" target="_blank">
+          <img alt="Results Summary Component preview" src="./screenshots/resultssummarycomponent.jpg" align="center">
         </a>
       </picture>
     </td>
