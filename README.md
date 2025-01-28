@@ -8,6 +8,36 @@ Below are a list of these projects, the latest on top, with links to the live si
 
 ## 📚 Project List
 
+### Projects finished in 2025
+
+<br>
+
+<!-- Blog Preview Card -->
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h2 align="center">Blog Preview Card</h2>
+      <h3 align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=html,css" alt="My Skills">
+        </a>
+      </h3>
+      <p align="center">
+        <a href="https://fe-25-001-blog-preview-card.vercel.app" target="_blank">Live</a> | <a href="https://github.com/katrien-s/fe-25-001-blog-preview-card" target="_blank">Repo</a>
+      </p>
+    </td>
+    <td width="50%">
+      <picture>
+        <a href="https://fe-25-001-blog-preview-card.vercel.app" target="_blank">
+          <img alt="Suite Landing Page preview" src="./screenshots/blogpreviewcard.jpg" align="center">
+        </a>
+      </picture>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 ### Projects finished in 2024
 
 <br>
