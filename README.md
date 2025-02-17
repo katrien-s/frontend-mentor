@@ -12,6 +12,32 @@ Below are a list of these projects, the latest on top, with links to the live si
 
 <br>
 
+<!-- Time Tracking Dashboard -->
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h2 align="center">Time Tracking Dashboard</h2>
+      <h3 align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=html,css,js" alt="My Skills">
+        </a>
+      </h3>
+      <p align="center">
+        <a href="https://fe-25-002-time-tracking-dashboard.netlify.app/" target="_blank">Live</a> | <a href="https://github.com/katrien-s/fe-25-002-time-tracking-dashboard" target="_blank">Repo</a>
+      </p>
+    </td>
+    <td width="50%">
+      <picture>
+        <a href="https://fe-25-002-time-tracking-dashboard.netlify.app/" target="_blank">
+          <img alt="Suite Landing Page preview" src="./screenshots/timetrackingdashboard.jpg" align="center">
+        </a>
+      </picture>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <!-- Blog Preview Card -->
 <table align="center">
   <tr>
