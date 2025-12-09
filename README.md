@@ -12,6 +12,31 @@ Below are a list of these projects, the latest on top, with links to the live si
 
 <br>
 
+<!-- Contact Form -->
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h2 align="center">Contact Form</h2>
+      <h3 align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=html,css,js" alt="My Skills">
+        </a>
+      </h3>
+      <p align="center">
+        <a href="https://fe-25-004-contact-form.netlify.app/" target="_blank">Live</a> | <a href="https://github.com/katrien-s/fe-25-004-contact-form" target="_blank">Repo</a>
+      </p>
+    </td>
+    <td width="50%">
+      <picture>
+        <a href="https://fe-25-004-contact-form.netlify.app/" target="_blank">
+          <img alt="Contact Form preview" src="./screenshots/contactform.jpeg" align="center">
+        </a>
+      </picture>
+    </td>
+  </tr>
+</table>
+
+<br>
 <!-- Time Tracking Dashboard -->
 <table align="center">
   <tr>
@@ -29,7 +54,7 @@ Below are a list of these projects, the latest on top, with links to the live si
     <td width="50%">
       <picture>
         <a href="https://fe-25-002-time-tracking-dashboard.netlify.app/" target="_blank">
-          <img alt="Suite Landing Page preview" src="./screenshots/timetrackingdashboard.jpg" align="center">
+          <img alt="Time Tracking Dashboard preview" src="./screenshots/timetrackingdashboard.jpg" align="center">
         </a>
       </picture>
     </td>
@@ -55,7 +80,7 @@ Below are a list of these projects, the latest on top, with links to the live si
     <td width="50%">
       <picture>
         <a href="https://fe-25-001-blog-preview-card.vercel.app" target="_blank">
-          <img alt="Suite Landing Page preview" src="./screenshots/blogpreviewcard.jpg" align="center">
+          <img alt="Blog Preview Card preview" src="./screenshots/blogpreviewcard.jpg" align="center">
         </a>
       </picture>
     </td>
