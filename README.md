@@ -93,6 +93,32 @@ Below are a list of these projects, the latest on top, with links to the live si
 
 <br>
 
+<!-- Social Media Theme Switcher -->
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h2 align="center">Social Media Dashboard with Theme Switcher</h2>
+      <h3 align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=html,css,js" alt="My Skills">
+        </a>
+      </h3>
+      <p align="center">
+        <a href="https://fe-24-012-social-media-dashboard-with-theme-switcher-master.vercel.app/" target="_blank">Live</a> | <a href="https://github.com/katrien-s/fe-24-012-social-media-dashboard-with-theme-switcher-master" target="_blank">Repo</a>
+      </p>
+    </td>
+    <td width="50%">
+      <picture>
+        <a href="https://fe-24-012-social-media-dashboard-with-theme-switcher-master.vercel.app/" target="_blank">
+          <img alt="Social Media Dashboard with Theme Switcher preview" src="./screenshots/socialmediadashboardwiththemeswitcher.jpg" align="center">
+        </a>
+      </picture>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <!-- Suite Landing Page -->
 <table align="center">
   <tr>
