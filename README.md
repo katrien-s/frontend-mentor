@@ -12,6 +12,58 @@ Below are a list of these projects, the latest on top, with links to the live si
 
 <br>
 
+<!-- Fylo Data Storage Component -->
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h2 align="center">Fylo Data Storage Component</h2>
+      <h3 align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=html,css" alt="My Skills">
+        </a>
+      </h3>
+      <p align="center">
+        <a href="https://fe-25-005-fylo-data-storage-component.netlify.app/" target="_blank">Live</a> | <a href="https://github.com/katrien-s/fe-25-005-fylo-data-storage-component" target="_blank">Repo</a>
+      </p>
+    </td>
+    <td width="50%">
+      <picture>
+        <a href="https://fe-25-005-fylo-data-storage-component.netlify.app/" target="_blank">
+          <img alt="Fylo Data Storage Component preview" src="./screenshots/fylodatastoragecomponent.jpg" align="center">
+        </a>
+      </picture>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- Tip Calculator App -->
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h2 align="center">Tip Calculator App</h2>
+      <h3 align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=html,css,js" alt="My Skills">
+        </a>
+      </h3>
+      <p align="center">
+        <a href="https://fe-25-003-tip-calculator-app.netlify.app/" target="_blank">Live</a> | <a href="https://github.com/katrien-s/fe-25-003-tip-calculator-app" target="_blank">Repo</a>
+      </p>
+    </td>
+    <td width="50%">
+      <picture>
+        <a href="https://fe-25-003-tip-calculator-app.netlify.app/" target="_blank">
+          <img alt="Top Calculator App preview" src="./screenshots/tipcalculatorapp.jpeg" align="center">
+        </a>
+      </picture>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <!-- Contact Form -->
 <table align="center">
   <tr>
@@ -37,6 +89,7 @@ Below are a list of these projects, the latest on top, with links to the live si
 </table>
 
 <br>
+
 <!-- Time Tracking Dashboard -->
 <table align="center">
   <tr>
