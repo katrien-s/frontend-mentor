@@ -8,6 +8,34 @@ Below are a list of these projects, the latest on top, with links to the live si
 
 ## 📚 Project List
 
+### Projects finished in 2026
+
+<br>
+
+<!-- Bento Grid Solution -->
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h2 align="center">Bento Grid Solution</h2>
+      <h3 align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=html,css" alt="My Skills">
+        </a>
+      </h3>
+      <p align="center">
+        <a href="https://fe-26-001-bento-grid.netlify.app/" target="_blank">Live</a> | <a href="https://github.com/katrien-s/fe-26-001-bento-grid" target="_blank">Repo</a>
+      </p>
+    </td>
+    <td width="50%">
+      <picture>
+        <a href="https://fe-26-001-bento-grid.netlify.app/" target="_blank">
+          <img alt="Bento Grid Solution preview" src="./screenshots/bento-grid.jpg" align="center">
+        </a>
+      </picture>
+    </td>
+  </tr>
+</table>
+
 ### Projects finished in 2025
 
 <br>
