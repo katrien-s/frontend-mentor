@@ -12,6 +12,77 @@ Below are a list of these projects, the latest on top, with links to the live si
 
 <br>
 
+<!-- Fylo dark theme landing page solution -->
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h2 align="center">Fylo dark theme landing page</h2>
+      <h3 align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=html,css,js" alt="My Skills">
+        </a>
+      </h3>
+      <p align="center">
+        <a href="https://fe-26-003-fylo-dark-theme-landing-pag.netlify.app/" target="_blank">Live</a> | <a href="https://github.com/katrien-s/fe-26-003-fylo-dark-theme-landing-page" target="_blank">Repo</a>
+      </p>
+    </td>
+    <td width="50%">
+      <picture>
+        <a href="https://fe-26-003-fylo-dark-theme-landing-pag.netlify.app/" target="_blank">
+          <img alt="Fylo dark theme landing page solution preview" src="./screenshots/fylodarkthemelandingpage.png" align="center">
+        </a>
+      </picture>
+    </td>
+  </tr>
+</table>
+
+<!-- Tech book club landing page solution -->
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h2 align="center">Tech book club landing page solution</h2>
+      <h3 align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=html,css" alt="My Skills">
+        </a>
+      </h3>
+      <p align="center">
+        <a href="https://fe-26-002-tech-book-club-landing-page.netlify.app/" target="_blank">Live</a> | <a href="https://github.com/katrien-s/fe-26-002-tech-book-club-landing-page" target="_blank">Repo</a>
+      </p>
+    </td>
+    <td width="50%">
+      <picture>
+        <a href="https://fe-26-002-tech-book-club-landing-page.netlify.app/" target="_blank">
+          <img alt="Tech book club landing page solution preview" src="./screenshots/techbookclublandingpage.png" align="center">
+        </a>
+      </picture>
+    </td>
+  </tr>
+</table>
+
+<!-- Bento Grid Solution -->
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h2 align="center">Bento Grid Solution</h2>
+      <h3 align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=html,css" alt="My Skills">
+        </a>
+      </h3>
+      <p align="center">
+        <a href="https://fe-26-001-bento-grid.netlify.app/" target="_blank">Live</a> | <a href="https://github.com/katrien-s/fe-26-001-bento-grid" target="_blank">Repo</a>
+      </p>
+    </td>
+    <td width="50%">
+      <picture>
+        <a href="https://fe-26-001-bento-grid.netlify.app/" target="_blank">
+          <img alt="Bento Grid Solution preview" src="./screenshots/bento-grid.jpg" align="center">
+        </a>
+      </picture>
+    </td>
+  </tr>
+</table>
 <!-- Bento Grid Solution -->
 <table align="center">
   <tr>
