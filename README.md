@@ -12,6 +12,30 @@ Below are a list of these projects, the latest on top, with links to the live si
 
 <br>
 
+<!-- Single-page design portfolio solution -->
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h2 align="center">Single-page Design Portfolio</h2>
+      <h3 align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=html,css,js,sass" alt="My Skills">
+        </a>
+      </h3>
+      <p align="center">
+        <a href="https://fe-26-005-single-page-design-portfoli.netlify.app/" target="_blank">Live</a> | <a href="https://github.com/katrien-s/fe-26-005-single-page-design-portfolio" target="_blank">Repo</a>
+      </p>
+    </td>
+    <td width="50%">
+      <picture>
+        <a href="https://fe-26-005-single-page-design-portfoli.netlify.app/" target="_blank">
+          <img alt="Single-page design portfolio solution preview" src="./screenshots/single-pagedesignportfolio.jpg" align="center">
+        </a>
+      </picture>
+    </td>
+  </tr>
+</table>
+
 <!-- Loopstudios Landing Page solution -->
 <table align="center">
   <tr>
